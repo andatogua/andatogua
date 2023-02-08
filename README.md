@@ -18,19 +18,19 @@ class AboutMe(Profile):
                     "GIMP",
                     "Figma",
                  ]
-    self.technologies = [
+    self.technologies = {
                             "Python" : [
                                             "Django",
                                             "DRF",
                                             "FastAPI",
                                             "OpenCV",
                                             "Mediapipe",
-                                        ]
+                                        ],
                              "JS": [
                                         "ReactJS",
                                         "NextJS"
                                    ]
-                        ]
+                        }
 
 ```
 **it's time to develop** :computer: :runner:
